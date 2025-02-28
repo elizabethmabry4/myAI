@@ -1,6 +1,6 @@
 import { AI_NAME, OWNER_NAME } from "@/configuration/identity";
 
-export const CHAT_HEADER: string = `AustenBot`;
+export const CHAT_HEADER: string = `AustenBot - Knightley`;
 export const MESSAGE_PLACEHOLDER: string = `Where was Jane Austen born?`;
 export const FOOTER_MESSAGE: string = `Copyright 2025 by Elizabeth Mabry`;
 export const CLEAR_BUTTON_TEXT: string = `Erase your query`;
